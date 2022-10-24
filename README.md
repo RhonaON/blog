@@ -1,13 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Basic blog project using Ruby on Rails:
 
-Things you may want to cover:
+## Set up
 
-* Ruby version
+* Installed following: `https://guides.rubyonrails.org/getting_started.html
 
-* System dependencies
+` 
+* Ruby version - 3.1.2 
+
+* System dependencies 
 
 * Configuration
 
@@ -21,4 +23,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+*
