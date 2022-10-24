@@ -4,9 +4,8 @@
 
 ## Set up
 
-* Installed following: `https://guides.rubyonrails.org/getting_started.html
+* Installed following: `https://guides.rubyonrails.org/getting_started.html` 
 
-` 
 * Ruby version - 3.1.2 
 
 * System dependencies 
